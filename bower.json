@@ -1,9 +1,10 @@
 {
-  "name": "certbotangularui",
-  "homepage": "https://github.com/metaclassing/php7-certbot",
+  "name": "angularuijwt",
+  "homepage": "https://github.com/iahunber/angular_jwt_base",
   "authors": [
-    "Metaclassing <metaclassing@secureobscure.com>"
-  ],
+    "Metaclassing <metaclassing@secureobscure.com>",
+	"iahunter"
+],
   "description": "test angular ui",
   "main": "app.js",
   "keywords": [
