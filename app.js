@@ -1,11 +1,11 @@
 ﻿(function () {
     'use strict';
 	
-	var app = angular
+    angular
         .module('app', ['ui.router', 'ngMessages', 'ngStorage', 'angular-jwt'])
         .config(config)
         .run(run);
-
+		
     function config($stateProvider, $urlRouterProvider) {
         // default route
         $urlRouterProvider.otherwise("/");
